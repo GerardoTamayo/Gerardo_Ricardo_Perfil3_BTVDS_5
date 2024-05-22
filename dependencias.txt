@@ -1,0 +1,9 @@
+npm install react-native-paper
+npm install react-native-screens
+npm install react-native-safe-area-context
+npm install react-native-elements
+npm install @react-navigation/bottom-tabs
+navigation-native
+navigation-native-stack
+react-native-paper
+react-native-gesture-handler
